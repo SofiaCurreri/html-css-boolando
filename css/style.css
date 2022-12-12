@@ -105,7 +105,7 @@ label.lb.more-info.solo{
 }
 
 .switch:hover .img-b {
-    display: block;
+    display: inline-block;
 }
 
 /* FOOTER */
